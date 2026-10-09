@@ -1,0 +1,17 @@
+LAPORAN OCR NOMOR IJAZAH
+========================================
+
+Hasil terbaik per gambar berdasarkan CER:
+                      gambar  metode_enhancement     nomor_acuan       hasil_ocr  CER  akurasi_karakter_persen
+     01_HighQuality_Enhanced           Grayscale 571012022000056 571012022000056  0.0                    100.0
+              02_LowContrast           Grayscale 571012022000056 571012022000056  0.0                    100.0
+                  03_Blurred               CLAHE 571012022000056 571012022000056  0.0                    100.0
+                04_HighNoise Contrast_Stretching 571012022000056 571012022000056  0.0                    100.0
+  05_LowResolution_Upsampled Contrast_Stretching 571012022000056 571012022000056  0.0                    100.0
+       06_Faded_Underexposed           Grayscale 571012022000056 571012022000056  0.0                    100.0
+      07_ColorShift_WarmTint Contrast_Stretching 571012022000056 571012022000056  0.0                    100.0
+08_JPEGCompression_Artifacts Contrast_Stretching 571012022000056 571012022000056  0.0                    100.0
+      09_CombinedDegradation               CLAHE 571012022000056 571012022000056  0.0                    100.0
+
+CER rata-rata: 0.0000
+Akurasi karakter rata-rata: 100.00%
